@@ -1,0 +1,24 @@
+body{
+    color:indianred;
+    background: cornflowerblue;
+    text-align:center;
+}
+
+.heading{
+    color:darkred;
+    width: 100%;
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.name_of_objects, #result_obeject_name, #result_object_accuracy{
+    font-size: 20px;
+    color:maroon;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#camera{
+    border: 2px dashed orange;
+    width: 400px;
+    height: 300px;
+}
